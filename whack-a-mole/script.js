@@ -21,7 +21,7 @@ const holes = document.querySelectorAll('.hole');
   }
 
   function peep() {
-    const time = randomTime(200, 1005);
+    const time = randomTime(1000, 1005);
     const hole = randomHole(holes);
     hole.classList.add('up');
     setTimeout(() => {
