@@ -103,42 +103,41 @@ body header .timer {
   border: 1px solid #E8E8E8;
 }
 
+/*https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/piggy-bank.png
+https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/shoe.png
+https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/plane.png
+https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/suitcase.png
+https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/robot.png
+https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/ring.png
+https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/palm-tree.png
+https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/mp3.png*/
+
 #piggy-bank {
-  background: white url("https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/piggy-bank.png") no-repeat center;
+  background: #ff9aa2 url("img/1.png") no-repeat center;
   background-size: contain;
 }
 
 #shoe {
-  background: white url("https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/shoe.png") no-repeat center;
+  background: #ffb7b2 url("img/2.png") no-repeat center;
   background-size: contain;
 }
 
 #plane {
-  background: white url("https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/plane.png") no-repeat center;
+  background: #ffdac1 url("img/3.png") no-repeat center;
   background-size: contain;
 }
 
 #suitcase {
-  background: white url("https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/suitcase.png") no-repeat center;
+  background: #e2f0cb url("img/4.png") no-repeat center;
   background-size: contain;
 }
 
 #robot {
-  background: white url("https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/robot.png") no-repeat center;
+  background: #b5ead7 url("img/5.png") no-repeat center;
   background-size: contain;
 }
 
 #ring {
-  background: white url("https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/ring.png") no-repeat center;
-  background-size: contain;
-}
-
-#palm-tree {
-  background: white url("https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/palm-tree.png") no-repeat center;
-  background-size: contain;
-}
-
-#mp3 {
-  background: white url("https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/mp3.png") no-repeat center;
+  background: #c7ceea url("img/6.png") no-repeat center;
   background-size: contain;
 }
