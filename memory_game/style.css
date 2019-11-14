@@ -83,7 +83,7 @@ body header .timer {
   left: 0;
   height: 100%;
   width: 100%;
-  box-shadow: #d44329 0 8px 2px;
+  box-shadow: #68800d 0 8px 2px;
 }
 .flipper .front {
   -webkit-transform: rotateY(0deg);
@@ -91,7 +91,8 @@ body header .timer {
   -ms-transform: rotateY(0deg);
   -o-transform: rotateY(0deg);
   transform: rotateY(0deg);
-  background: #df001f;
+  background: #B2D234 url("img/ais_white.png") no-repeat center;
+  background-size: contain;
 }
 .flipper .back {
   -webkit-transform: rotateY(180deg);

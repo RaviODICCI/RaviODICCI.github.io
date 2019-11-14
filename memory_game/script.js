@@ -4,7 +4,8 @@ $(document).ready(function() {
     $(".game").height( $(window).height() * 0.9 );
   }
 	
-	var cards = ['piggy-bank', 'shoe', 'plane', 'suitcase', 'robot', 'ring', 'palm-tree', 'mp3'];
+	// var cards = ['piggy-bank', 'shoe', 'plane', 'suitcase', 'robot', 'ring', 'palm-tree', 'mp3'];
+	var cards = ['piggy-bank', 'shoe', 'plane', 'suitcase', 'robot', 'ring'];
 	var pairs = cards.concat(cards);//create pairs of cards
 	var chosenCards = [];
 	var cardsToFlip = [];
