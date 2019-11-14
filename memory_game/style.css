@@ -142,7 +142,7 @@ https://res.cloudinary.com/lloydfenton/image/upload/v1460983932/mp3.png*/
   background-size: contain;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 420px) {
   .flip-container {
     height: 16%;
 }
