@@ -1,0 +1,18 @@
+body {
+  background-color: #333;
+}
+
+#catch-game {
+  width: 520px;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+  position: relative;
+}
+
+#email {
+  position: absolute;
+  left: 200px;
+  top: 400px;
+  opacity: 0;
+}
